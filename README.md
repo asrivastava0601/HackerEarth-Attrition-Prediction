@@ -45,3 +45,6 @@ Evaluation criteria:-
 The evaluation metric that is used for this problem is the root mean squared error. The formula is as follows:
 
 score = 100 * max(0,1- root_mean_squared_error(actual_values, predicted_values))
+
+
+My score: 81.23132
