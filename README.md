@@ -14,31 +14,31 @@ Test.csv
 
 sample_submission.csv
 
-Variable Description
-Column Name	Description
-Employee_ID	Unique ID of each employee
-Age	Age of each employee
-Unit	Department under which the employee work
-Education	Rating of Qualification of an employee (1-5)
-Gender	Male-0 or Female-1
-Decision_skill_possess	Decision skill that an employee possesses
-Post_Level	Level of the post in an organization (1-5)
-Relationship_Status	Categorical Married or Single 
-Pay_Scale	Rate in between 1 to 10
-Time_of_service	Years in the organization
-growth_rate	Growth rate in percentage of an employee
-Time_since_promotion	Time in years since the last promotion
-Work_Life_balance	Rating for work-life balance given by an employee.
-Travel_Rate	Rating based on travel history(1-3)
-Hometown	Name of the city
-Compensation_and_Benefits	Categorical Variabe
+Variable and description:-
+Column Name	                  Description
+Employee_ID	                  Unique ID of each employee
+Age	                          Age of each employee
+Unit	                        Department under which the employee work
+Education	                    Rating of Qualification of an employee (1-5)
+Gender	                      Male-0 or Female-1
+Decision_skill_possess	      Decision skill that an employee possesses
+Post_Level	                  Level of the post in an organization (1-5)
+Relationship_Status	          Categorical Married or Single 
+Pay_Scale	                    Rate in between 1 to 10
+Time_of_service	              Years in the organization
+growth_rate	                  Growth rate in percentage of an employee
+Time_since_promotion	        Time in years since the last promotion
+Work_Life_balance	            Rating for work-life balance given by an employee.
+Travel_Rate	                  Rating based on travel history(1-3)
+Hometown	                    Name of the city
+Compensation_and_Benefits	    Categorical Variabe
 VAR1 - VAR5	Anominised variables
 Attrition_rate(TARGET VARIABLE)	Attrition rate of each employee
-Submission format
+
+
+Submission format:-
 You are required to write your predictions in a .csv file that contain the following columns:
-
 Employee_ID
-
 Attrition_rate
 
 Evaluation criteria:-
